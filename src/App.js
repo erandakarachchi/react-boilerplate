@@ -1,11 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+
 
 import {HomeScreen} from './containers';
 
 function App() {
   return (
-    <div className="App">
+    <div className='h-screen bg-orange-100 flex justify-center items-center'>
       <HomeScreen/>
     </div>
   );

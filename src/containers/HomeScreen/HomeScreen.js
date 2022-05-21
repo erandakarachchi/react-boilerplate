@@ -14,9 +14,12 @@ const HomeScreen = () => {
 
   return (
     <div>
-      <h1>Home Screen</h1>
-      <Button onClick={onButtonClick} />
-      <p>{count}</p>
+      <h1 className="text-6xl">Home Screen</h1>
+      <div className="flex flex-col border-2 border-black mt-4">
+        <Button onClick={onButtonClick} />
+        <hr className="border-black"/>
+        <div className="text-center">{count}</div>
+      </div>
     </div>
   );
 };
