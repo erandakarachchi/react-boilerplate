@@ -1,3 +1,4 @@
+
 # Simple React Boilerplate :rocket:
 
 ## About 
@@ -29,3 +30,7 @@ This project requires NodeJS v12 or later and npm to run.
 ## Todo 
 
 - Add support for react-router
+
+## Contact :relaxed:
+
+Contact me on [@erandakarachchi](https://twitter.com/erandakarachchi) on twitter if there is anything.
