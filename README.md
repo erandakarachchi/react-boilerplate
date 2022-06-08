@@ -1,5 +1,5 @@
 
-# Simple React Boilerplate :rocket:
+![](https://raw.githubusercontent.com/erandakarachchi/react-boilerplate/main/public/header.png)
 
 ## About 
 
@@ -17,6 +17,7 @@ This project requires NodeJS v12 or later and npm to run.
 - Configured to use tailwind CSS.
 - Well structured folder structure.
 - Configured to use axios
+- Configured to use react-router
 
 ## Usage
 
@@ -27,9 +28,6 @@ This project requires NodeJS v12 or later and npm to run.
 - Run the tests using `npm test`
 - Create a production builds using `npm run build`
 
-## Todo 
-
-- Add support for react-router
 
 ## Contact :relaxed:
 
