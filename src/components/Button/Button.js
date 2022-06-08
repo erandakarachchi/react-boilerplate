@@ -1,7 +1,7 @@
 import React from "react";
 
 const Button = ({ onClick }) => {
-  return <button onClick={onClick}>Button</button>;
+  return <button className="bg-black text-white" onClick={onClick}>Click Me !</button>;
 };
 
 export default Button;

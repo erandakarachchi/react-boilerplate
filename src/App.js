@@ -1,13 +1,7 @@
-
-
-import {HomeScreen} from './containers';
+import {Router} from "./routes";
 
 function App() {
-  return (
-    <div className='h-screen bg-orange-100 flex justify-center items-center'>
-      <HomeScreen/>
-    </div>
-  );
+  return <Router />;
 }
 
 export default App;
